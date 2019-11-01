@@ -1,72 +1,107 @@
 # Remcos-Professional-Cracked-By-Alcatraz3222
 Remcos Professional Cracked By Alcatraz3222-Remote Administration Trojan-RAT
-<p style="text-align: center;"><strong><span style="font-size: 30px; color: rgb(184, 49, 47);">Remcos Professional Cracked By Alcatraz3222</span></strong></p>
-<p style="text-align: center;">
-  <br>
-</p>
-<p style="text-align: center;">
-  <a href="https://i.imgur.com/RYV4UbT.gif">https://i.imgur.com/RYV4UbT.gif</a>
-</p>
-<p style="text-align: center;">
-  <br>
-</p>
-<p><strong><span style="color: rgb(226, 80, 65);">Control remotely your computers, anywhere in the world.</span></strong></p>
-<p>
-  <br>
-</p>
-<p>Remcos lets you extensively control and manage one or many computers remotely.</p>
-<p>
-  <br>
-</p>
-<p>It’s the perfect solution if you need to use your PC from a remote location,</p>
-<p>or if you need to oversee an entire network of computers from a single spot, having full control on each one of them.</p>
-<p>
-  <br>
-</p>
-<p>Remcos has been designed to provide performance, speed and lightweight operation,</p>
-<p>by unleashing the full power of C++ and Delphi programming languages.</p>
-<p>
-  <br>
-</p>
-<p><strong><span style="color: rgb(226, 80, 65);">Remote Administration</span></strong></p>
-<p>Either you are a private user wanting to control your PC from afar,</p>
-<p>or a big company which wants to administrate hundreds of machines from a single computer,</p>
-<p>Remcos will suit your needs!</p>
-<p>With Remcos, you can control at the same time all the computers of your house, company, factory, school or classroom.</p>
-<p>
-  <br>
-</p>
-<p><strong><span style="color: rgb(226, 80, 65);">Remote Support</span></strong></p>
-<p>Easily perform remote support sessions,</p>
-<p>thanks to the integrated Remote Desktop and Chat functionalities.</p>
-<p>
-  <br>
-</p>
-<p><strong><span style="color: rgb(226, 80, 65);">Remote Surveillance</span></strong></p>
-<p>Remcos is powerful solution to remotely monitor your house or business.</p>
-<p>Remcos let’s you ensure that nobody is performing unwanted actions on your computer.</p>
-<p>You will be able to monitor unauthorized access and insider threats.</p>
-<p>You can use Remcos also as an ambiental surveillance station:</p>
-<p>Instead of having to buy cameras or microphones, you will just use the ones of your computers.</p>
-<p>
-  <br>
-</p>
-<p><strong><span style="color: rgb(226, 80, 65);">Remote Anti-Theft</span></strong></p>
-<p>Someone stole your computer?</p>
-<p>Use Remcos to take pictures of him from camera, and track IP address to find where your computer is located.</p>
-<p>Retrieve your files easily to a safe location,</p>
-<p>and then delete them on your remote computer, to prevent the thief accessing your data.</p>
-<p>Wipe out stored cookies and passwords, to prevent the intruder from logging into your accounts.</p>
-<p>
-  <br>
-</p>
-<p><strong><span style="color: rgb(226, 80, 65);">Remote Proxy</span></strong></p>
-<p>Use Remcos as a reliable proxy using the SOCKS5 protocol:</p>
-<p>route your internet traffic via your remote machines, bypass internet censorships, blocks and restrictions.</p>
-<p>Supports SOCKS5 in both Direct and Reverse modes.</p>
-<p>
-  <br>
-</p>
-<p style="text-align: center;">
-  <a href="https://i.imgur.com/n9VfZ0R.png">https://i.imgur.com/n9VfZ0R.png</a>
-</p>
+<!-- #######  YAY, I AM THE SOURCE EDITOR! #########-->
+<h1 style="color: #5e9ca0;">You can edit <span style="color: #2b2301;">this demo</span> text!</h1>
+<h2 style="color: #2e6c80;">How to use the editor:</h2>
+<p>Paste your documents in the visual editor on the left or your HTML code in the source editor in the right. <br />Edit any of the two areas and see the other changing in real time.&nbsp;</p>
+<p>Click the <span style="background-color: #2b2301; color: #fff; display: inline-block; padding: 3px 10px; font-weight: bold; border-radius: 5px;">Clean</span> button to clean your source code.</p>
+<h2 style="color: #2e6c80;">Some useful features:</h2>
+<ol style="list-style: none; font-size: 14px; line-height: 32px; font-weight: bold;">
+<li style="clear: both;"><img style="float: left;" src="https://html-online.com/img/01-interactive-connection.png" alt="interactive connection" width="45" /> Interactive source editor</li>
+<li style="clear: both;"><img style="float: left;" src="https://html-online.com/img/02-html-clean.png" alt="html cleaner" width="45" /> HTML Cleaning</li>
+<li style="clear: both;"><img style="float: left;" src="https://html-online.com/img/03-docs-to-html.png" alt="Word to html" width="45" /> Word to HTML conversion</li>
+<li style="clear: both;"><img style="float: left;" src="https://html-online.com/img/04-replace.png" alt="replace text" width="45" /> Find and Replace</li>
+<li style="clear: both;"><img style="float: left;" src="https://html-online.com/img/05-gibberish.png" alt="gibberish" width="45" /> Lorem-Ipsum generator</li>
+<li style="clear: both;"><img style="float: left;" src="https://html-online.com/img/6-table-div-html.png" alt="html table div" width="45" /> Table to DIV conversion</li>
+</ol>
+<p>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</p>
+<h2 style="color: #2e6c80;">Cleaning options:</h2>
+<table class="editorDemoTable">
+<thead>
+<tr>
+<td>Name of the feature</td>
+<td>Example</td>
+<td>Default</td>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Remove tag attributes</td>
+<td><img style="margin: 1px 15px;" src="images/smiley.png" alt="laughing" width="40" height="16" /> (except <strong>img</strong>-<em>src</em> and <strong>a</strong>-<em>href</em>)</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>Remove inline styles</td>
+<td><span style="color: green; font-size: 13px;">You <strong style="color: blue; text-decoration: underline;">should never</strong>&nbsp;use inline styles!</span></td>
+<td><strong style="font-size: 17px; color: #2b2301;">x</strong></td>
+</tr>
+<tr>
+<td>Remove classes and IDs</td>
+<td><span id="demoId">Use classes to <strong class="demoClass">style everything</strong>.</span></td>
+<td><strong style="font-size: 17px; color: #2b2301;">x</strong></td>
+</tr>
+<tr>
+<td>Remove all tags</td>
+<td>This leaves <strong style="color: blue;">only the plain</strong> <em>text</em>. <img style="margin: 1px;" src="images/smiley.png" alt="laughing" width="16" height="16" /></td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>Remove successive &amp;nbsp;s</td>
+<td>Never use non-breaking spaces&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;to set margins.</td>
+<td><strong style="font-size: 17px; color: #2b2301;">x</strong></td>
+</tr>
+<tr>
+<td>Remove empty tags</td>
+<td>Empty tags should go!</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>Remove tags with one &amp;nbsp;</td>
+<td>This makes&nbsp;no sense!</td>
+<td><strong style="font-size: 17px; color: #2b2301;">x</strong></td>
+</tr>
+<tr>
+<td>Remove span tags</td>
+<td>Span tags with <span style="color: green; font-size: 13px;">all styles</span></td>
+<td><strong style="font-size: 17px; color: #2b2301;">x</strong></td>
+</tr>
+<tr>
+<td>Remove images</td>
+<td>I am an image: <img src="images/smiley.png" alt="laughing" /></td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>Remove links</td>
+<td><a href="https://html-online.com">This is</a> a link.</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>Remove tables</td>
+<td>Takes everything out of the table.</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>Replace table tags with structured divs</td>
+<td>This text is inside a table.</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>Remove comments</td>
+<td>This is only visible in the source editor <!-- HELLO! --></td>
+<td><strong style="font-size: 17px; color: #2b2301;">x</strong></td>
+</tr>
+<tr>
+<td>Encode special characters</td>
+<td><span style="color: red; font-size: 17px;">&hearts;</span> <strong style="font-size: 20px;">☺ ★</strong> &gt;&lt;</td>
+<td><strong style="font-size: 17px; color: #2b2301;">x</strong></td>
+</tr>
+<tr>
+<td>Set new lines and text indents</td>
+<td>Organize the tags in a nice tree view.</td>
+<td>&nbsp;</td>
+</tr>
+</tbody>
+</table>
+<p><strong>&nbsp;</strong></p>
+<p><strong>Save this link into your bookmarks and share it with your friends. It is all FREE! </strong><br /><strong>Enjoy!</strong></p>
+<p><strong>&nbsp;</strong></p>
