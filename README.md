@@ -1,10 +1,20 @@
 # Remcos-Professional-Cracked-By-Alcatraz3222
 Remcos Professional Cracked By Alcatraz3222-Remote Administration Trojan-RAT
 <!-- #######  YAY, I AM THE SOURCE EDITOR! #########-->
-<h1 style="color: #5e9ca0;">You can edit <span style="color: #2b2301;">this demo</span> text!</h1>
-<h2 style="color: #2e6c80;">How to use the editor:</h2>
-<p>Paste your documents in the visual editor on the left or your HTML code in the source editor in the right. <br />Edit any of the two areas and see the other changing in real time.&nbsp;</p>
-<p>Click the <span style="background-color: #2b2301; color: #fff; display: inline-block; padding: 3px 10px; font-weight: bold; border-radius: 5px;">Clean</span> button to clean your source code.</p>
+<h2 style="color: #5e9ca0; text-align: center;"><strong>Remcos Professional Cracked By Alcatraz3222</strong></h2>
+<h2 style="color: #2e6c80; text-align: center;"><img src="https://i.imgur.com/RYV4UbT.gif" alt="" width="754" height="264" /></h2>
+<p><strong>Control remotely your computers, anywhere in the world.</strong></p>
+<p>Remcos lets you extensively control and manage one&nbsp;or many computers remotely.</p>
+<p>It&rsquo;s the perfect solution if you need to use your PC from a remote location,<br />or if you need to oversee an entire network of computers&nbsp;from a single spot, having full control on each one of them.</p>
+<p>Remcos has been designed to provide performance, speed and lightweight operation,<br />by unleashing the full power of C++ and Delphi programming languages.</p>
+<p><strong>Remote Administration</strong><br />Either you are a private user wanting to control your PC from afar,<br />or a big company which wants to administrate hundreds of machines from a single computer,<br />Remcos will suit your needs!<br />With Remcos, you can control at the same time all the computers of your house, company, factory, school or classroom.</p>
+<p><strong>Remote Support</strong><br />Easily perform remote support sessions,<br />thanks to the integrated Remote Desktop and Chat functionalities.</p>
+<p><strong>Remote Surveillance</strong><br />Remcos is powerful solution to remotely monitor your house or business.<br />Remcos let&rsquo;s you ensure that nobody is performing unwanted actions on your computer.<br />You will be able to monitor unauthorized access and insider threats.<br />You can use Remcos also as an ambiental surveillance station:<br />Instead of having to buy cameras or microphones, you will just use the ones of your computers.</p>
+<p><strong>Remote Anti-Theft</strong><br />Someone stole your computer?<br />Use Remcos to take pictures of him from camera, and track IP address to find where your computer is located.<br />Retrieve your files easily to a safe location,<br />and then delete them on your remote computer, to prevent the thief accessing your data.<br />Wipe out stored cookies and passwords, to prevent the intruder from logging into your accounts.</p>
+<p><strong>Remote Proxy</strong><br />Use Remcos as a reliable proxy using the SOCKS5 protocol:<br />route your internet traffic via your remote machines, bypass internet censorships, blocks and restrictions.<br />Supports SOCKS5 in both Direct and Reverse modes.</p>
+<div style="text-align: center;"><strong>A wide array of functions, contained in a tiny package.</strong></div>
+<div style="text-align: center;">The agent part, written in C++, is only ~100 kb uncompressed.<br />That&rsquo;s because performance has always been a priority in the development, as well as maximum compatibility with any Windows system.</div>
+<h2><img src="https://i.imgur.com/n9VfZ0R.png" alt="" width="954" height="1092" /></h2>
 <h2 style="color: #2e6c80;">Some useful features:</h2>
 <ol style="list-style: none; font-size: 14px; line-height: 32px; font-weight: bold;">
 <li style="clear: both;"><img style="float: left;" src="https://html-online.com/img/01-interactive-connection.png" alt="interactive connection" width="45" /> Interactive source editor</li>
@@ -16,92 +26,6 @@ Remcos Professional Cracked By Alcatraz3222-Remote Administration Trojan-RAT
 </ol>
 <p>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</p>
 <h2 style="color: #2e6c80;">Cleaning options:</h2>
-<table class="editorDemoTable">
-<thead>
-<tr>
-<td>Name of the feature</td>
-<td>Example</td>
-<td>Default</td>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td>Remove tag attributes</td>
-<td><img style="margin: 1px 15px;" src="images/smiley.png" alt="laughing" width="40" height="16" /> (except <strong>img</strong>-<em>src</em> and <strong>a</strong>-<em>href</em>)</td>
-<td>&nbsp;</td>
-</tr>
-<tr>
-<td>Remove inline styles</td>
-<td><span style="color: green; font-size: 13px;">You <strong style="color: blue; text-decoration: underline;">should never</strong>&nbsp;use inline styles!</span></td>
-<td><strong style="font-size: 17px; color: #2b2301;">x</strong></td>
-</tr>
-<tr>
-<td>Remove classes and IDs</td>
-<td><span id="demoId">Use classes to <strong class="demoClass">style everything</strong>.</span></td>
-<td><strong style="font-size: 17px; color: #2b2301;">x</strong></td>
-</tr>
-<tr>
-<td>Remove all tags</td>
-<td>This leaves <strong style="color: blue;">only the plain</strong> <em>text</em>. <img style="margin: 1px;" src="images/smiley.png" alt="laughing" width="16" height="16" /></td>
-<td>&nbsp;</td>
-</tr>
-<tr>
-<td>Remove successive &amp;nbsp;s</td>
-<td>Never use non-breaking spaces&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;to set margins.</td>
-<td><strong style="font-size: 17px; color: #2b2301;">x</strong></td>
-</tr>
-<tr>
-<td>Remove empty tags</td>
-<td>Empty tags should go!</td>
-<td>&nbsp;</td>
-</tr>
-<tr>
-<td>Remove tags with one &amp;nbsp;</td>
-<td>This makes&nbsp;no sense!</td>
-<td><strong style="font-size: 17px; color: #2b2301;">x</strong></td>
-</tr>
-<tr>
-<td>Remove span tags</td>
-<td>Span tags with <span style="color: green; font-size: 13px;">all styles</span></td>
-<td><strong style="font-size: 17px; color: #2b2301;">x</strong></td>
-</tr>
-<tr>
-<td>Remove images</td>
-<td>I am an image: <img src="images/smiley.png" alt="laughing" /></td>
-<td>&nbsp;</td>
-</tr>
-<tr>
-<td>Remove links</td>
-<td><a href="https://html-online.com">This is</a> a link.</td>
-<td>&nbsp;</td>
-</tr>
-<tr>
-<td>Remove tables</td>
-<td>Takes everything out of the table.</td>
-<td>&nbsp;</td>
-</tr>
-<tr>
-<td>Replace table tags with structured divs</td>
-<td>This text is inside a table.</td>
-<td>&nbsp;</td>
-</tr>
-<tr>
-<td>Remove comments</td>
-<td>This is only visible in the source editor <!-- HELLO! --></td>
-<td><strong style="font-size: 17px; color: #2b2301;">x</strong></td>
-</tr>
-<tr>
-<td>Encode special characters</td>
-<td><span style="color: red; font-size: 17px;">&hearts;</span> <strong style="font-size: 20px;">☺ ★</strong> &gt;&lt;</td>
-<td><strong style="font-size: 17px; color: #2b2301;">x</strong></td>
-</tr>
-<tr>
-<td>Set new lines and text indents</td>
-<td>Organize the tags in a nice tree view.</td>
-<td>&nbsp;</td>
-</tr>
-</tbody>
-</table>
 <p><strong>&nbsp;</strong></p>
 <p><strong>Save this link into your bookmarks and share it with your friends. It is all FREE! </strong><br /><strong>Enjoy!</strong></p>
 <p><strong>&nbsp;</strong></p>
