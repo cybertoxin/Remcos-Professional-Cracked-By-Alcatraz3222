@@ -1,6 +1,6 @@
 # Remcos-Professional-Cracked-By-Alcatraz3222
 Remcos Professional Cracked By Alcatraz3222-Remote Administration Trojan-RAT
-<!-- #######  YAY, I AM THE SOURCE EDITOR! #########-->
+<!-- #######  YAY, I AM THE Alcatraz3222! #########-->
 <h2 style="color: #5e9ca0; text-align: center;"><strong>Remcos Professional Cracked By Alcatraz3222</strong></h2>
 <h2 style="color: #2e6c80; text-align: center;"><img src="https://i.imgur.com/RYV4UbT.gif" alt="" width="754" height="264" /></h2>
 <p><strong>Control remotely your computers, anywhere in the world.</strong></p>
@@ -14,18 +14,10 @@ Remcos Professional Cracked By Alcatraz3222-Remote Administration Trojan-RAT
 <p><strong>Remote Proxy</strong><br />Use Remcos as a reliable proxy using the SOCKS5 protocol:<br />route your internet traffic via your remote machines, bypass internet censorships, blocks and restrictions.<br />Supports SOCKS5 in both Direct and Reverse modes.</p>
 <div style="text-align: center;"><strong>A wide array of functions, contained in a tiny package.</strong></div>
 <div style="text-align: center;">The agent part, written in C++, is only ~100 kb uncompressed.<br />That&rsquo;s because performance has always been a priority in the development, as well as maximum compatibility with any Windows system.</div>
-<h2><img src="https://i.imgur.com/n9VfZ0R.png" alt="" width="954" height="1092" /></h2>
-<h2 style="color: #2e6c80;">Some useful features:</h2>
-<ol style="list-style: none; font-size: 14px; line-height: 32px; font-weight: bold;">
-<li style="clear: both;"><img style="float: left;" src="https://html-online.com/img/01-interactive-connection.png" alt="interactive connection" width="45" /> Interactive source editor</li>
-<li style="clear: both;"><img style="float: left;" src="https://html-online.com/img/02-html-clean.png" alt="html cleaner" width="45" /> HTML Cleaning</li>
-<li style="clear: both;"><img style="float: left;" src="https://html-online.com/img/03-docs-to-html.png" alt="Word to html" width="45" /> Word to HTML conversion</li>
-<li style="clear: both;"><img style="float: left;" src="https://html-online.com/img/04-replace.png" alt="replace text" width="45" /> Find and Replace</li>
-<li style="clear: both;"><img style="float: left;" src="https://html-online.com/img/05-gibberish.png" alt="gibberish" width="45" /> Lorem-Ipsum generator</li>
-<li style="clear: both;"><img style="float: left;" src="https://html-online.com/img/6-table-div-html.png" alt="html table div" width="45" /> Table to DIV conversion</li>
-</ol>
-<p>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</p>
-<h2 style="color: #2e6c80;">Cleaning options:</h2>
-<p><strong>&nbsp;</strong></p>
-<p><strong>Save this link into your bookmarks and share it with your friends. It is all FREE! </strong><br /><strong>Enjoy!</strong></p>
+<h2><img style="display: block; margin-left: auto; margin-right: auto;" src="https://i.imgur.com/n9VfZ0R.png" alt="" width="954" height="1092" /></h2>
+<h2 style="color: #2e6c80;"><img style="display: block; margin-left: auto; margin-right: auto;" src="https://breaking-security.net/wp-content/uploads/2018/01/remcos-functions-cat-v2.0-1.png" alt="" width="870" height="542" /></h2>
+<h2 style="color: #2e6c80;"><img style="display: block; margin-left: auto; margin-right: auto;" src="https://breaking-security.net/wp-content/uploads/2018/01/remcos-functions-cat-shortkeys-v2.0-1.png" alt="" width="870" height="542" /></h2>
+<p><img style="display: block; margin-left: auto; margin-right: auto;" src="https://breaking-security.net/wp-content/uploads/2017/12/remcos-functions-winXP.png" alt="" width="865" height="419" /></p>
+<h2 style="text-align: center;"><strong>&hellip; And much more!</strong></h2>
+<p>&nbsp;</p>
 <p><strong>&nbsp;</strong></p>
